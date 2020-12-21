@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "42ec3d6727187892c4b216eadcb45ba7eb790c6d",
+    "author": "Hugo Gruson <hugo.gruson@protonmail.com>",
+    "time": "2020-12-21 13:17:07",
+    "files": 3,
+    "merge": false,
+    "message": "Polish vignettes\n"
+  },
+  "remote": "https://github.com/ropensci/lightr",
+  "pkg": "lightr"
+}

@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  batch_import: batch_import.html
+  renormalise: renormalise.html
+  true_example: true_example.html
+last_built: 2021-03-12T11:50Z
+urls:
+  reference: https://docs.ropensci.org/lightr/reference
+  article: https://docs.ropensci.org/lightr/articles
+
