@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5c7fbad522196fc62bbbe170f2e24c51a4e8ae63",
+    "author": "Hugo Gruson <10783929+Bisaloo@users.noreply.github.com>",
+    "time": "2024-03-21 21:59:25",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 1.7.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/lightr",
+  "pkg": "lightr"
+}
