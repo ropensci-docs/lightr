@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c1cd25af2c7093a1edf11e723d3d455e01d86fba",
+    "author": "Hugo Gruson <git@hugogruson.fr>",
+    "time": "2026-08-16T08:53:49Z",
+    "files": 2,
+    "merge": false,
+    "message": "Use numeric constants instead of calls to nchar\n"
+  },
+  "repo": "https://github.com/ropensci/lightr",
+  "pkg": "lightr",
+  "time": "2026-08-16T09:05:10Z"
+}
