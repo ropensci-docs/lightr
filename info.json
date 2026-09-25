@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "49e156cd4d892b721dd24e143d9c3b1dacd3bebd",
+    "author": "Hugo Gruson <git@hugogruson.fr>",
+    "time": "2026-09-25T11:45:24Z",
+    "files": 2,
+    "merge": false,
+    "message": "Do not snapshot full error message\n"
+  },
+  "repo": "https://github.com/ropensci/lightr",
+  "pkg": "lightr",
+  "time": "2026-09-25T14:04:07Z"
+}
